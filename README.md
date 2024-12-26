@@ -24,8 +24,8 @@ To get started with this template, follow these simple steps.
 Clone this template to your local machine.
 
 ```bash
-git clone https://github.com/anshrajore/react-vite-template.git
-cd react-vite-template
+[git clone https://github.com/anshrajore/react-vite-template.git
+cd react-vite-template](https://github.com/anshrajore/Apple-15-pro.git)
 
 
 npm install
